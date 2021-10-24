@@ -1,6 +1,8 @@
 # 👋 Hi! I'm Juan!
 
 - 💼 Software Engineer at [Vistaprint](vistaprint.com).
+- 💰 Buiding a [net salary calculator for Spain](https://juan.pallares.me/net-salary-calculator/).
+- 📚 I can help you [manage you Kindle clippings](https://gitlab.com/jpallares/myclippings-to-markdown).
 - ✍️ Writing in [pallares.me](pallares.me). About everything (not only technical stuff).
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/juanpallares?style=social) ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/500843)
