@@ -10,11 +10,11 @@
 ## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Github profile README](https://juan.pallares.me/how-to-create-a-github-profile-README/)
 - [Lo mejores libros y blogs de 2021](https://juan.pallares.me/los-mejores-libros-y-blogs-de-2021/)
 - [Parse your Kindle clippings to create a book collection in Jekyll](https://juan.pallares.me/parse-your-kindle-clippings-into-your-jekyll-blog/)
 - [It has never been easier to have a blog with Github Pages](https://juan.pallares.me/it-has-never-been-easier-to-have-a-blog/)
 - [Net salary calculator](https://juan.pallares.me/net-salary-calculator/)
-- [Calculadora de sueldo neto](https://juan.pallares.me/calculadora-de-sueldo-neto/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 My Github Stats
