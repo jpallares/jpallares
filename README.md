@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Juan!
 
-- 💼 Software Engineer at [Vistaprint](vistaprint.com).
+- 💼 Software Engineer at [Trainline](https://www.thetrainline.com/).
 - 💰 Buiding a [net salary calculator for Spain](https://juan.pallares.me/net-salary-calculator/).
 - 📚 I can help you [manage your Kindle clippings](https://gitlab.com/jpallares/myclippings-to-markdown).
 - ✍️ Writing in [pallares.me](pallares.me). About everything (not only technical stuff).
