@@ -10,11 +10,11 @@
 ## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert O’Reilly highlights csv to Markdown. Then use them in your Jekyll blog as a collection](https://juan.pallares.me/parse-oreilly-highlights-to-markdown/)
 - [How to book andjoy classes automatically](https://juan.pallares.me/how-to-book-andjoy-class-automatically/)
 - [Google Suite will stop being free. How to have free custom domain email with forwarding](https://juan.pallares.me/google-suite-no-longer-How-to-have-custom-domain-email-with-forwarding/)
 - [How to create a Github profile README](https://juan.pallares.me/how-to-create-a-github-profile-README/)
 - [Lo mejores libros y blogs de 2021](https://juan.pallares.me/los-mejores-libros-y-blogs-de-2021/)
-- [Parse your Kindle clippings to create a book collection in Jekyll](https://juan.pallares.me/parse-your-kindle-clippings-into-your-jekyll-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 My Github Stats
