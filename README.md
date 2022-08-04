@@ -2,7 +2,7 @@
 
 - 💼 Software Engineer at [Trainline](https://www.thetrainline.com/).
 - 💰 Buiding a [net salary calculator for Spain](https://juan.pallares.me/net-salary-calculator/).
-- 📚 I can help you [manage your Kindle clippings](https://gitlab.com/jpallares/myclippings-to-markdown).
+- 📚 I can help you [parse your Kindle clippings and your O'Reilly highlights]([https://gitlab.com/jpallares/myclippings-to-markdown](https://gitlab.com/jpallares/highlights-to-markdown)).
 - ✍️ Writing in [pallares.me](pallares.me). About everything (not only technical stuff).
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/juanpallares?style=social) ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/500843)
