@@ -16,9 +16,3 @@
 - [How to create a Github profile README](https://juan.pallares.me/how-to-create-a-github-profile-README/)
 - [Lo mejores libros y blogs de 2021](https://juan.pallares.me/los-mejores-libros-y-blogs-de-2021/)
 <!-- BLOG-POST-LIST:END -->
-
-## 📈 My Github Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpallares&count_private=true&show_icons=true)
-](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpallares)](https://github.com/anuraghazra/github-readme-stats)
