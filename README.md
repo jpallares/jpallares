@@ -10,9 +10,9 @@
 ## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Use Jekyll with Visual Studio Code Dev Containers and Colima](https://juan.pallares.me/jekyll-in-visual-studio-code-dev-container-with-colima/)
 - [Book - The Art of Unit Testing, 2nd Edition - Roy Osherove](https://juan.pallares.me/the-art-of-unit-testing/)
 - [Convert O’Reilly highlights csv to Markdown. Then use them in your Jekyll blog as a collection](https://juan.pallares.me/parse-oreilly-highlights-to-markdown/)
 - [How to book andjoy classes automatically](https://juan.pallares.me/how-to-book-andjoy-class-automatically/)
 - [Google Suite will stop being free. How to have free custom domain email with forwarding](https://juan.pallares.me/google-suite-no-longer-How-to-have-custom-domain-email-with-forwarding/)
-- [How to create a Github profile README](https://juan.pallares.me/how-to-create-a-github-profile-README/)
 <!-- BLOG-POST-LIST:END -->
