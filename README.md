@@ -10,9 +10,9 @@
 ## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculadora de sueldo neto](https://juan.pallares.me/calculadora-de-sueldo-neto/)
+- [Net salary calculator](https://juan.pallares.me/net-salary-calculator/)
 - [Use Jekyll with Visual Studio Code Dev Containers and Colima](https://juan.pallares.me/jekyll-in-visual-studio-code-dev-container-with-colima/)
 - [Book - The Art of Unit Testing, 2nd Edition - Roy Osherove](https://juan.pallares.me/the-art-of-unit-testing/)
 - [Convert O’Reilly highlights csv to Markdown. Then use them in your Jekyll blog as a collection](https://juan.pallares.me/parse-oreilly-highlights-to-markdown/)
-- [How to book andjoy classes automatically](https://juan.pallares.me/how-to-book-andjoy-class-automatically/)
-- [Google Suite will stop being free. How to have free custom domain email with forwarding](https://juan.pallares.me/google-suite-no-longer-How-to-have-custom-domain-email-with-forwarding/)
 <!-- BLOG-POST-LIST:END -->
