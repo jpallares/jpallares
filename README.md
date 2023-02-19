@@ -10,9 +10,9 @@
 ## 📖 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculadora de hipoteca](https://juan.pallares.me/calculadora-de-hipoteca/)
 - [Lo mejores libros y entradas del blog de 2022](https://juan.pallares.me/los-mejores-libros-y-entradas-del-blog-de-2022/)
 - [Calculadora de sueldo neto](https://juan.pallares.me/calculadora-de-sueldo-neto/)
 - [Net salary calculator](https://juan.pallares.me/net-salary-calculator/)
 - [Use Jekyll with Visual Studio Code Dev Containers and Colima](https://juan.pallares.me/jekyll-in-visual-studio-code-dev-container-with-colima/)
-- [Book - The Art of Unit Testing, 2nd Edition - Roy Osherove](https://juan.pallares.me/the-art-of-unit-testing/)
 <!-- BLOG-POST-LIST:END -->
